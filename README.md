@@ -12,5 +12,5 @@ Technologies utilisées :
   - Spring Boot pour le back  --> dans le dossier demo
 
 Utilisation : 
-  - On lance le backend en se plaçant dans le dossier demo et on execute la commande "mvn spring-boot:run"
-  - On lance le frontend en se plaçant dans le dossier front/my-app et on execute la commande "npm start". Attention il ne faut pas oublier de faire un   "npm install" avant d'executer cette commande. 
+  - On lance le backend en se plaçant dans le dossier demo et on execute la commande **mvn spring-boot:run**
+  - On lance le frontend en se plaçant dans le dossier front/my-app et on execute la commande **npm start**. Attention il ne faut pas oublier de faire un   **npm install** avant d'executer cette commande. 
