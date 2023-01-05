@@ -8,5 +8,5 @@ La réalisation de cette application fut très pédagogique et aborde les notion
   - Conception : Bien modéliser le problème avec un UML de qualité et des classes qui possèdent les bon liens entre elles)
 
 Technologies utilisées :
-  - React js pour le front
-  - Spring Boot pour le back
+  - React js pour le front    --> dans le dossier front
+  - Spring Boot pour le back  --> dans le dossier demo
